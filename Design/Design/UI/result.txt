@@ -1,0 +1,6 @@
+MPI Program
+TIME:3034.591675
+openMP Program
+TIME:10133
+openMP and MPI Program
+TIME:3466.367722
